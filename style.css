@@ -92,3 +92,12 @@ body{
     margin-top: 10px;
     display: none;
 }
+
+@media screen and (max-width:767px){
+    .card{
+        width: 100%;
+        padding-inline:10px;
+    }
+
+    
+}
